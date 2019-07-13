@@ -1,6 +1,8 @@
 # Console Nonsense
 Console Nonsense is a simple program that consists of console based programs held together by a menu.
 
+Nonsense, bullshit, profanity, silly, and just straight up weird shit is encouraged.
+
 Feel free to submit a pull request with new additions.
 
 #### Rules
