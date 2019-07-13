@@ -5,6 +5,8 @@ Anything is allowed as long as it follows the rules. Be creative, snarky, produc
 
 Feel free to submit a pull request with new additions.
 
+<b> Read the wiki before you begin<b>
+
 #### Rules
 1. Programs must use the console as the sole interface
 2. New console programs must be original
