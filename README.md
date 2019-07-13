@@ -5,12 +5,10 @@ Anything is allowed as long as it follows the rules. Be creative, snarky, produc
 
 Feel free to submit a pull request with new additions.
 
-[Wiki](https://github.com/tpercario/ConsoleNonsense/wiki)
-
 #### Rules
 1. Programs must use the console as the sole interface
 2. New console programs must be original
-3. Adhere to the coding standard (See Wiki)
+3. Adhere to the coding standard (See [Wiki](https://github.com/tpercario/ConsoleNonsense/wiki))
 
 ## Info
 Core language is C#
