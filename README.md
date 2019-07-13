@@ -8,6 +8,7 @@ Feel free to submit a pull request with new additions.
 2. New console programs must be original
 3. Adhere to the coding standard (See Wiki)
 
-## 
+## Info
+C#
 
 
