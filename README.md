@@ -9,6 +9,6 @@ Feel free to submit a pull request with new additions.
 3. Adhere to the coding standard (See Wiki)
 
 ## Info
-C#
+Core language is C#
 
 
