@@ -1,7 +1,7 @@
 # Console Nonsense
 Console Nonsense is a simple program that consists of console based programs held together by a menu.
 
-Nonsense, bullshit, profanity, silly, and just straight up weird shit is encouraged.
+Anything is allowed as long as it follows the rules. Be creative, snarky, productive, unproductive, weird. I don't care as long as it prints to the console.
 
 Feel free to submit a pull request with new additions.
 
@@ -16,6 +16,9 @@ Core language is C#
 ## Acknowledgements 
 #### Creator
 * Tyler Percario
+
+#### Third Party Libs
+* [Colorful Console](http://colorfulconsole.com/)
 
 
 
