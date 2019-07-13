@@ -3,8 +3,8 @@ Console Nonsense is a simple program that consists of console based programs hel
 
 Feel free to submit a pull request with new additions.
 
-Rules:
+## Rules
 1. New console programs must be original
-2. Adhere to the coding standard
+2. Adhere to the coding standard (See Wiki)
 
 
