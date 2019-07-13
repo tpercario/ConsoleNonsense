@@ -1,7 +1,7 @@
 # Console Nonsense
 Console Nonsense is a simple program that consists of console based programs held together by a menu.
 
-Anything is allowed as long as it follows the rules. Be creative, snarky, productive, unproductive, weird. I don't care as long as it prints to the console.
+Anything is allowed as long as it follows the rules. Be creative, snarky, productive, unproductive, weird. I don't care, as long as it prints to the console.
 
 Feel free to submit a pull request with new additions.
 
