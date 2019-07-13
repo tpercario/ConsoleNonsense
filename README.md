@@ -5,7 +5,7 @@ Anything is allowed as long as it follows the rules. Be creative, snarky, produc
 
 Feel free to submit a pull request with new additions.
 
-##### Read the wiki before you begin 
+[Wiki](https://github.com/tpercario/ConsoleNonsense/wiki)
 
 #### Rules
 1. Programs must use the console as the sole interface
