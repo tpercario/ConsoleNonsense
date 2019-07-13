@@ -11,4 +11,9 @@ Feel free to submit a pull request with new additions.
 ## Info
 Core language is C#
 
+## Acknowledgements 
+#### Creator
+* Tyler Percario
+
+
 
