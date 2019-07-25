@@ -1,0 +1,10 @@
+Credits and References
+
+Authors:
+Tyler Percario
+	Quack
+	LineRace
+	Hangman
+
+Third Party Libs:
+Colorful Console

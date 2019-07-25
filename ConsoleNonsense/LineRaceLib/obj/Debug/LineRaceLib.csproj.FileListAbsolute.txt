@@ -1,0 +1,16 @@
+C:\Users\xv328e\source\repos\Quack\LineRaceLib\bin\Debug\LineRaceLib.dll
+C:\Users\xv328e\source\repos\Quack\LineRaceLib\bin\Debug\LineRaceLib.pdb
+C:\Users\xv328e\source\repos\Quack\LineRaceLib\bin\Debug\Colorful.Console.dll
+C:\Users\xv328e\source\repos\Quack\LineRaceLib\obj\Debug\LineRaceLib.csprojAssemblyReference.cache
+C:\Users\xv328e\source\repos\Quack\LineRaceLib\obj\Debug\LineRaceLib.csproj.CoreCompileInputs.cache
+C:\Users\xv328e\source\repos\Quack\LineRaceLib\obj\Debug\LineRaceLib.csproj.CopyComplete
+C:\Users\xv328e\source\repos\Quack\LineRaceLib\obj\Debug\LineRaceLib.dll
+C:\Users\xv328e\source\repos\Quack\LineRaceLib\obj\Debug\LineRaceLib.pdb
+C:\Users\xv328e\source\repos\ConsoleNonsense\LineRaceLib\bin\Debug\LineRaceLib.dll
+C:\Users\xv328e\source\repos\ConsoleNonsense\LineRaceLib\bin\Debug\LineRaceLib.pdb
+C:\Users\xv328e\source\repos\ConsoleNonsense\LineRaceLib\bin\Debug\Colorful.Console.dll
+C:\Users\xv328e\source\repos\ConsoleNonsense\LineRaceLib\obj\Debug\LineRaceLib.csprojAssemblyReference.cache
+C:\Users\xv328e\source\repos\ConsoleNonsense\LineRaceLib\obj\Debug\LineRaceLib.csproj.CoreCompileInputs.cache
+C:\Users\xv328e\source\repos\ConsoleNonsense\LineRaceLib\obj\Debug\LineRaceLib.csproj.CopyComplete
+C:\Users\xv328e\source\repos\ConsoleNonsense\LineRaceLib\obj\Debug\LineRaceLib.dll
+C:\Users\xv328e\source\repos\ConsoleNonsense\LineRaceLib\obj\Debug\LineRaceLib.pdb

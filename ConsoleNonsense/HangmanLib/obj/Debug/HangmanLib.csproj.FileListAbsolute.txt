@@ -1,0 +1,16 @@
+C:\Users\xv328e\source\repos\Quack\HangmanLib\bin\Debug\HangmanLib.dll
+C:\Users\xv328e\source\repos\Quack\HangmanLib\bin\Debug\HangmanLib.pdb
+C:\Users\xv328e\source\repos\Quack\HangmanLib\bin\Debug\Colorful.Console.dll
+C:\Users\xv328e\source\repos\Quack\HangmanLib\obj\Debug\HangmanLib.csprojAssemblyReference.cache
+C:\Users\xv328e\source\repos\Quack\HangmanLib\obj\Debug\HangmanLib.csproj.CoreCompileInputs.cache
+C:\Users\xv328e\source\repos\Quack\HangmanLib\obj\Debug\HangmanLib.csproj.CopyComplete
+C:\Users\xv328e\source\repos\Quack\HangmanLib\obj\Debug\HangmanLib.dll
+C:\Users\xv328e\source\repos\Quack\HangmanLib\obj\Debug\HangmanLib.pdb
+C:\Users\xv328e\source\repos\ConsoleNonsense\HangmanLib\bin\Debug\HangmanLib.dll
+C:\Users\xv328e\source\repos\ConsoleNonsense\HangmanLib\bin\Debug\HangmanLib.pdb
+C:\Users\xv328e\source\repos\ConsoleNonsense\HangmanLib\bin\Debug\Colorful.Console.dll
+C:\Users\xv328e\source\repos\ConsoleNonsense\HangmanLib\obj\Debug\HangmanLib.csprojAssemblyReference.cache
+C:\Users\xv328e\source\repos\ConsoleNonsense\HangmanLib\obj\Debug\HangmanLib.csproj.CoreCompileInputs.cache
+C:\Users\xv328e\source\repos\ConsoleNonsense\HangmanLib\obj\Debug\HangmanLib.csproj.CopyComplete
+C:\Users\xv328e\source\repos\ConsoleNonsense\HangmanLib\obj\Debug\HangmanLib.dll
+C:\Users\xv328e\source\repos\ConsoleNonsense\HangmanLib\obj\Debug\HangmanLib.pdb

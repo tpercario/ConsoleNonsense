@@ -1,0 +1,15 @@
+C:\Users\xv328e\source\repos\Quack\QuackLib\bin\Debug\QuackLib.dll
+C:\Users\xv328e\source\repos\Quack\QuackLib\bin\Debug\QuackLib.pdb
+C:\Users\xv328e\source\repos\Quack\QuackLib\bin\Debug\Colorful.Console.dll
+C:\Users\xv328e\source\repos\Quack\QuackLib\obj\Debug\QuackLib.csproj.CoreCompileInputs.cache
+C:\Users\xv328e\source\repos\Quack\QuackLib\obj\Debug\QuackLib.csproj.CopyComplete
+C:\Users\xv328e\source\repos\Quack\QuackLib\obj\Debug\QuackLib.dll
+C:\Users\xv328e\source\repos\Quack\QuackLib\obj\Debug\QuackLib.pdb
+C:\Users\xv328e\source\repos\ConsoleNonsense\QuackLib\bin\Debug\QuackLib.dll
+C:\Users\xv328e\source\repos\ConsoleNonsense\QuackLib\bin\Debug\QuackLib.pdb
+C:\Users\xv328e\source\repos\ConsoleNonsense\QuackLib\bin\Debug\Colorful.Console.dll
+C:\Users\xv328e\source\repos\ConsoleNonsense\QuackLib\obj\Debug\QuackLib.csprojAssemblyReference.cache
+C:\Users\xv328e\source\repos\ConsoleNonsense\QuackLib\obj\Debug\QuackLib.csproj.CoreCompileInputs.cache
+C:\Users\xv328e\source\repos\ConsoleNonsense\QuackLib\obj\Debug\QuackLib.csproj.CopyComplete
+C:\Users\xv328e\source\repos\ConsoleNonsense\QuackLib\obj\Debug\QuackLib.dll
+C:\Users\xv328e\source\repos\ConsoleNonsense\QuackLib\obj\Debug\QuackLib.pdb

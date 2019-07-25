@@ -1,0 +1,13 @@
+C:\Users\xv328e\source\repos\Quack\Quack\bin\Debug\Quack.exe.config
+C:\Users\xv328e\source\repos\Quack\Quack\bin\Debug\Quack.exe
+C:\Users\xv328e\source\repos\Quack\Quack\bin\Debug\Quack.pdb
+C:\Users\xv328e\source\repos\Quack\Quack\bin\Debug\Colorful.Console.dll
+C:\Users\xv328e\source\repos\Quack\Quack\obj\Debug\Quack.csprojAssemblyReference.cache
+C:\Users\xv328e\source\repos\Quack\Quack\obj\Debug\Quack.csproj.CoreCompileInputs.cache
+C:\Users\xv328e\source\repos\Quack\Quack\obj\Debug\Quack.csproj.CopyComplete
+C:\Users\xv328e\source\repos\Quack\Quack\obj\Debug\Quack.exe
+C:\Users\xv328e\source\repos\Quack\Quack\obj\Debug\Quack.pdb
+C:\Users\xv328e\source\repos\Quack\Quack\bin\Debug\LineRaceLib.dll
+C:\Users\xv328e\source\repos\Quack\Quack\bin\Debug\LineRaceLib.pdb
+C:\Users\xv328e\source\repos\Quack\Quack\bin\Debug\ConsoleMenuLib.dll
+C:\Users\xv328e\source\repos\Quack\Quack\bin\Debug\ConsoleMenuLib.pdb
